@@ -3,7 +3,6 @@ const FILES_TO_CACHE = [
     '/index.html',
     '/index.js',
     '/styles.css',
-    // '../routes/api.js',
     // '../models/transaction.js',
     '/icons/icon-192x192.png',
     '/icons/icon-512x512.png',
